@@ -5,9 +5,10 @@ This is a program that displays your CPU's HWID. It is also open source!
 
 [![csharp](https://img.shields.io/badge/Made%20With-C%23-red)](https://en.wikipedia.org/wiki/C_Sharp_(programming_language))
 
+[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
+
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://windows.com)
 
-[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 
 ---
 ## Uses
